@@ -46,7 +46,7 @@ no.addEventListener("click", () => {
     count++;
   } else if (count == 5) {
     gif.src = "../resources/5.crying.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
-    text.innerHTML = "STOP EDING ME AND PRESS YES ALREADY SILLY GIRL";
+    text.innerHTML = "STOP EDGING ME AND PRESS YES ALREADY SILLY GIRL";
     yes.style.height = "90%";
     yes.style.width = "96%";
     no.style.display = "none";
@@ -66,5 +66,6 @@ yes.addEventListener("click", () => {
     vid.style.display = "none";
   }, 9000);
 });
+
 
 
